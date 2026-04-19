@@ -48,7 +48,7 @@ base de datos:
 
 3//PUT  http://127.0.0.1:8000/api/v1/movies/1/
 
-![](./docs/sotelo3.png)
+![](./docs/sotelo10.png)
 
 4//DELETE http://127.0.0.1:8000/api/v1/movies/1/     
 
@@ -70,7 +70,7 @@ Probando GET en THUNDER CLIENT  : http://127.0.0.1:8000/api/v1/movies/ http://12
 
 //POST http://127.0.0.1:8000/api/v1/movies/ 
 
-![](./docs/ortiz2.png)
+![](./docs/ortiz5.png)
 
 //PUT
 
