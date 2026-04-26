@@ -77,7 +77,7 @@ http://127.0.0.1:8000/api/genres/
 ![Verificar](./docs6/genres9.png)
 
 
-##### JOSE SOTELO 
+#######  CAPTURAS JOSE SOTELO 
 
 
 ### 🔹 Visual 1: Vista general de la app Genre
