@@ -43,35 +43,35 @@ http://127.0.0.1:8000/api/genres/
 
 ---
 
-## 3. Añadir  genero (GET)
+## 2. Añadir  genero (GET)
 ![Genres](./docs6/genres3.png)
 
 ---
 
-## 4. Visualizar el proyecto
+## 3. Visualizar el proyecto
 ![Genre](./docs6/genres4.png)
 
 ---
 
-## 5. Post añadir
+## 4. Post añadir
 ![Post](./docs6/genres5.png)
 
 ---
 
-## 6. (GET)
+## 5. (GET)
 ![GET Genre](./docs6/genres6.png)
 
 ---
 
-## 7. añadir nuevo genero de peliculas
+## 6. añadir nuevo genero de peliculas
 ![DELETE Genre](./docs6/genres7.png)
 
 ---
 
-## 8. ELIMINAR
+## 7. ELIMINAR
 ![GET Deleted Genre](./docs6/genres8.png)
 
 ---
 
-## 9. VERIFICAR EN EL SISTEMA 
+## 8. VERIFICAR EN EL SISTEMA 
 ![Verificar](./docs6/genres9.png)
