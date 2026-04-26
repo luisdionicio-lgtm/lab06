@@ -73,5 +73,9 @@ http://127.0.0.1:8000/api/genres/
 
 ---
 
-## 8. VERIFICAR EN EL SISTEMA 
+## 8. VERIFICAR EN EL SISTEMA WEB
 ![Verificar](./docs6/genres9.png)
+
+
+
+
