@@ -118,3 +118,51 @@ http://127.0.0.1:8000/api/genres/
 ### 🔹 Visual 8: Vista general de la aplicación en ejecución
 ![archivo](./docs6/visual8.jpeg)
 
+
+
+###### JERONIMO ORTIZ ORTIZ
+
+## 📸 Evidencias del desarrollo del sistema
+
+---
+
+### 🔹 Ortiz_1: Visualización del proyecto en ejecución
+![Ortiz_1](./docs6/Ortiz_1.jpeg)
+
+---
+
+### 🔹 Ortiz_2: Panel administrativo (Django Admin)
+![Ortiz_2](./docs6/Ortiz_2.jpeg)
+
+---
+
+### 🔹 Ortiz_3: Código del proyecto (estructura o implementación)
+![Ortiz_3](./docs6/Ortiz_3.jpeg)
+
+---
+
+### 🔹 Ortiz_4: Creación de datos (POST)
+![Ortiz_4](./docs6/Ortiz_4.jpeg)
+
+---
+
+### 🔹 Ortiz_5: (POST)
+![Ortiz_5](./docs6/Ortiz_5.jpeg)
+
+---
+
+### 🔹 Ortiz_6: GET
+![Ortiz_6](./docs6/Ortiz_6.jpeg)
+
+### 🔹 Ortiz_8: GET DE VERIFICACION
+![Ortiz_8](./docs6/Ortiz_8.jpeg)
+
+---
+
+### 🔹 Ortiz_7: PUT
+![Ortiz_7](./docs6/Ortiz_7.jpeg)
+
+---
+
+### 🔹 Ortiz_9: DELETE
+![Ortiz_9](./docs6/Ortiz_9.jpeg)
