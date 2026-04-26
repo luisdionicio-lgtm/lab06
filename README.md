@@ -1,84 +1,77 @@
+1. Clonar el repositorio
 
-//1 capturas de LUIS ANGEL DIONICIO BARTOLO
+Abre tu terminal (PowerShell, CMD o Git Bash):
 
-DATABASE: GET en Thunder Client 
-GET http://127.0.0.1:8000/api/movies/
+git clone https://github.com/luisdionicio-lgtm/lab05.git
 
-![](./docs/luis1.png)
-//2
-POST:http://127.0.0.1:8000/api/movies/
-![](./docs/luis2.png)
-base de datos
-![](./docs/luis3.png)
+Luego entra al proyecto:
 
-//3
+cd lab05
+2. Crear entorno virtual
+python -m venv .venv
+3. Activar entorno virtual
+En Windows:
+.venv\Scripts\activate
 
-PUT:
-http://127.0.0.1:8000/api/movies/3/
-![](./docs/luis4.png)
+Si todo está bien verás:
 
-base de datos:
-![](./docs/luis5.png)
+(.venv)
+4. Instalar dependencias
+pip install -r requirements.txt
+5. Aplicar migraciones
+python manage.py migrate
+6. Crear superusuario (opcional pero recomendado)
+python manage.py createsuperuser
+7. Ejecutar el servidor
+python manage.py runserver
+ ¿Cómo se visualiza?
+🔹 API (DRF - Navegador)
 
+Abre en tu navegador:
 
-//4
-//DELETE:
+http://127.0.0.1:8000/api/movies/
+http://127.0.0.1:8000/api/genres/
 
-http://127.0.0.1:8000/api/movies/2/
+#######CAPTURAS DE LUIS DIONICIO
 
-![](./docs/luis6.png)
+## 1. Existencias del Genres
+![Genre](./docs6/genres1.png)
 
-base de datos:
+---
 
-![](./docs/luis7.png)
+![Genre](./docs6/genres2.png)
 
+---
 
+## 3. Añadir  genero (GET)
+![Genres](./docs6/genres3.png)
 
+---
 
-///EVIDENCIAS DE Diego Sotelo Garcia
+## 4. Visualizar el proyecto
+![Genre](./docs6/genres4.png)
 
-1//GET http://127.0.0.1:8000/api/v1/movies/
+---
 
-![](./docs/sotelo1.png)
+## 5. Post añadir
+![Post](./docs6/genres5.png)
 
-2//POST http://127.0.0.1:8000/api/v1/movies/
+---
 
-![](./docs/sotelo2.png)
+## 6. (GET)
+![GET Genre](./docs6/genres6.png)
 
+---
 
-3//PUT  http://127.0.0.1:8000/api/v1/movies/1/
-![](./docs/sotelo10.png)
+## 7. añadir nuevo genero de peliculas
+![DELETE Genre](./docs6/genres7.png)
 
-![](./docs/sotelo10.png)
+---
 
+## 8. ELIMINAR
+![GET Deleted Genre](./docs6/genres8.png)
 
-4//DELETE http://127.0.0.1:8000/api/v1/movies/1/     
+---
 
-![](./docs/sotelo4.png)
-
-5// Base de datos
-![](./docs/sotelo5.png)
-
-
-
-////EVIDENCIAS JERONIMO ORTIZ
-
-
-//GET 
-Probando GET en THUNDER CLIENT  : http://127.0.0.1:8000/api/v1/movies/ http://127.0.0.1:8000/api/v1/movies/
-
-![](./docs/ortiz1.png)
-
-
-//POST http://127.0.0.1:8000/api/v1/movies/ ![](./docs/ortiz5.png)
-
-
-//PUT
-
-![](./docs/ortiz3.png)
-
-
-//DELETE
-
-![](./docs/ortiz4.png)
-
+## 9. VERIFICAR EN EL SISTEMA 
+![Verificar](./docs6/genres9.png)
