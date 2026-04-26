@@ -77,5 +77,44 @@ http://127.0.0.1:8000/api/genres/
 ![Verificar](./docs6/genres9.png)
 
 
+##### JOSE SOTELO 
 
+
+### 🔹 Visual 1: Vista general de la app Genre
+![Visual 1](./docs6/visual1.png)
+
+---
+
+### 🔹 Visual 2: Visualización de géneros registrados
+![Visual 2](./docs6/visual2.png)
+
+---
+
+### 🔹 Visual 3: Detalle de género en el sistema
+![Visual 3](./docs6/visual3.png)
+
+---
+
+### 🔹 Visual 4: Creación de género (POST)
+![Visual 4](./docs6/visual4.png)
+
+---
+
+### 🔹 Visual 5: Consulta de géneros (GET)
+![Visual 5](./docs6/visual5.png)
+
+---
+
+### 🔹 Visual 6: Actualización de género (PUT)
+![Visual 6](./docs6/visual6.png)
+
+---
+
+### 🔹 Visual 7: Eliminación de género (DELETE)
+![Visual 7](./docs6/visual7.png)
+
+---
+
+### 🔹 Visual 8: Vista general de la aplicación en ejecución
+![Visual 8](./docs6/visual8.png)
 
