@@ -47,6 +47,7 @@ base de datos:
 
 
 3//PUT  http://127.0.0.1:8000/api/v1/movies/1/
+![](./docs/sotelo10.png)
 
 ![](./docs/sotelo10.png)
 
